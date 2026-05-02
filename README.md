@@ -12,7 +12,7 @@ This project demonstrates how to use the Fetch API to retrieve live exchange rat
 ## Features
 - Real-time currency conversion
 - Clean and responsive UI
-- Built with vanilla JavaScript (Fetch API)
+- Built with JavaScript (Fetch API)
 - Supports multiple currencies
 
 ---
